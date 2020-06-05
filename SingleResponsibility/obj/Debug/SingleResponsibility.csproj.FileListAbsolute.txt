@@ -1,0 +1,7 @@
+C:\Users\Serife\Desktop\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.exe.config
+C:\Users\Serife\Desktop\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.exe
+C:\Users\Serife\Desktop\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.pdb
+C:\Users\Serife\Desktop\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.csprojAssemblyReference.cache
+C:\Users\Serife\Desktop\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Serife\Desktop\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.exe
+C:\Users\Serife\Desktop\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.pdb
